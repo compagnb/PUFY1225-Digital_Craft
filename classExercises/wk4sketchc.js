@@ -1,21 +1,28 @@
+var gray = int(random(0, 102));
+var scalar = random(0.25, 1.0);
+
 function setup() { 
   createCanvas(600, 600);
 } 
 
 function draw() { 
   background(220);
-  for(var x = 110; x <= width-(110/2); x+=70){
-    for(var y = 110; y <= height; y+=110){
-      owl(x, y);
+  for(var x = 110; x <= width-(110/2); x+=50){
+    for(var y = 110; y <= height; y+=70){
+      gray = int(random(0, 102));
+      scalar = random(0.25, 1.0);
+      owl(x, y, gray, scalar);
     }
   }
+  noLoop();
 }
 
 // Owl Function
-function owl(x, y) {
+function owl(x, y, g, s) {
   push();
   translate(x, y);
-  stroke(88, 3, 1);
+  scale(s);
+  stroke(g);
   strokeWeight(70);
   line(0, -35, 0, -65); // Body
   
