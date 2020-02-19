@@ -1,4 +1,5 @@
-
+xRad = 15;
+yRad = 15;
 
 function setup() {
     createCanvas(600, 400, SVG); // Create SVG Canvas

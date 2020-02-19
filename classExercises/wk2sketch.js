@@ -14,17 +14,17 @@ function draw() { // this runs forever!
 
   // filling a shape with color
   // fill(color);
-  fill('red')
+  fill('red');
   // Remember... computers are stupid, so we need to change it back after we are done changing the color or else everything will be shaded the same color. 
 
   // change outline
   // strokeWeight(pixels);
-  stokeWeight(0);
+  noStroke();
   // Remember... computers are stupid, so we need to change it back after we are done changing the stroke or else everything will have the same stroke. 
 
   // drawing circles
   // ellipse(x position, y position, width, height);
-  ellipse(150, 150, 20, 20);
+  ellipse(150, 150, 100, 100);
 
   // filling a shape with color
   // fill(color);
@@ -33,7 +33,7 @@ function draw() { // this runs forever!
 
   // change outline
   // strokeWeight(pixels);
-  stokeWeight(2);
+  strokeWeight(2);
   // Remember... computers are stupid, so we need to change it back after we are done changing the stroke or else everything will have the same stroke. 
 
   // drawing rectangles
@@ -43,25 +43,33 @@ function draw() { // this runs forever!
   // drawing rectangles from the center rather from the corner
   // rectMode(CENTER/CORNER);
   rectMode(CENTER);
+  fill("yellow");
   rect(150, 150, 20, 20);
 
   rectMode(CORNER);
   // Remember... computers are stupid, so we need to change it back after we are done or it will effect everything we do!
 
   // drawing triangles
+  fill("blue");
   // triangle(point a x, point a y, point b x, point b y, point c x, point c y);
   triangle(300, 100, 320, 100, 310, 80);
 
   // drawing quads
+  fill("orange");
   // quad(point a x, point a y, point b x, point b y, point c x, point c y, point d x, point d y);
   quad(189, 18, 216, 18, 216, 360, 144, 360);
 
   // drawing lines
+  strokeWeight(3);
+  stroke("blue");
   // line(beginning x, beginning y, end x, end y);
-  line(100, 100, 200, 200);
+  line(10, 10, 50, 50);
 
   // drawing arcs
+  strokeWeight(3);
+  stroke("green");
+  fill("black");
   // arc(x, y, width, height, start angle, stop angle);
-  arc(479, 300, 280, 280, PI, TWO_PI);
+  arc(100, 100, 80, 80, PI, TWO_PI);
 
 }
