@@ -23,4 +23,5 @@
 * [Rotate](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk5b.html)
 * [Delays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk5c.html)
 * [Importing Libraries](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
-* [Exporting SVGs](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
+* [Exporting SVGs Example 1](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
+* [Exporting SVGs Example 2](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgExample/index.html)
