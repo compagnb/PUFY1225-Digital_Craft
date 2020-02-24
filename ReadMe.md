@@ -25,3 +25,5 @@
 * [Importing Libraries](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
 * [Exporting SVGs Example 1](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
 * [Exporting SVGs Example 2](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgExample/index.html)
+
+[ori](http://orilacau.github.io/PUFY1225-Digital_Craft/ori/lasr1.html)
