@@ -26,4 +26,14 @@
 * [Exporting SVGs Example 1](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
 * [Exporting SVGs Example 2](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgExample/index.html)
 
-[ori](http://orilacau.github.io/PUFY1225-Digital_Craft/ori/lasr1.html)
+## In-Class Exercises Week 6
+* [Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6a.html)
+
+## In-Class Exercises Week 7
+* [3d Geometry](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7a.html)
+* [Materials & Lighting](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
+* [Textures](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
+* [Preload Example](https://compagnb.github.io/PUFY1225-Digital_Craft/preLoadTemplate/index.html)
+* [Load Model Example](https://compagnb.github.io/PUFY1225-Digital_Craft/loadModelTemplate/index.html)
+
+

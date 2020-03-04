@@ -10,7 +10,7 @@ var theta = 0;
 // use preload to load assets!
 function preload(){
   img = loadImage("https://images-na.ssl-images-amazon.com/images/I/61Oh2US5ZuL._SX425_.jpg");
-  earthMap= loadImage("assets/earth.jpg"); 
+  earthMap= loadImage('assets/earth.jpg', true); 
 }
 
 function setup() {
