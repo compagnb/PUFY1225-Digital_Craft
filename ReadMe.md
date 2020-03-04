@@ -32,7 +32,7 @@
 ## In-Class Exercises Week 7
 * [3d Geometry](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7a.html)
 * [Materials & Lighting](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
-* [Textures](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
+* [Textures](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7c.html)
 * [Preload Example](https://compagnb.github.io/PUFY1225-Digital_Craft/preLoadTemplate/index.html)
 * [Load Model Example](https://compagnb.github.io/PUFY1225-Digital_Craft/loadModelTemplate/index.html)
 

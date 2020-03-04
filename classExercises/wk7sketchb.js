@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(100, 100, WEBGL);
+  createCanvas(400, 400, WEBGL);
 }
 function draw() {
   background(0);
@@ -15,5 +15,5 @@ function draw() {
   // -width/2,height/2--------width/2,height/2
   pointLight(250, 250, 250, locX, locY, 50);
   noStroke();
-  sphere(40);
+  sphere(100);
 }
