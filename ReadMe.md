@@ -1,24 +1,24 @@
 # Digital Craft Spring-'20
 
-## In-Class Exercises Week 1 
+## Week 1 In-Class Exercises 
 * [P5 Basic Template]()
 
-## In-Class Exercises Week 2
+## Week 2 In-Class Exercises 
 * [Shapes, Stroke, Fill, Colors](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk2.html)
 * [mouseX & mouse Y](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk2Bonus.html)
 * [Simple Animation](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk2Bonus2.html)
 
-## In-Class Exercises Week 3
+## Week 3 In-Class Exercises 
 * [For Loops & Modulus](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk3a.html)
 * [sketch 2](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk3b.html)
 * [Booleans!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk3c.html)
 
-## In-Class Exercises Week 4
+## Week 4 In-Class Exercises 
 * [Functions, Text, Line Spacing, Fonts!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk4a.html)
 * [Functions, Gradients with Alpha Channels](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk4b.html)
 * [Functions, translate, scale, random, customizing Owls!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk4c.html)
 
-## In-Class Exercises Week 5
+## Week 5 In-Class Exercises 
 * [Random](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk5a.html)
 * [Rotate](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk5b.html)
 * [Delays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk5c.html)
@@ -26,14 +26,40 @@
 * [Exporting SVGs Example 1](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgTemplate/index.html)
 * [Exporting SVGs Example 2](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgExample/index.html)
 
-## In-Class Exercises Week 6
+## Week 6 In-Class Exercises 
 * [Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6a.html)
 
-## In-Class Exercises Week 7
+## Week 7 In-Class Exercises 
 * [3d Geometry](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7a.html)
 * [Materials & Lighting](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
 * [Textures](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7c.html)
-* [Preload Example](https://compagnb.github.io/PUFY1225-Digital_Craft/preLoadTemplate/index.html)
-* [Load Model Example](https://compagnb.github.io/PUFY1225-Digital_Craft/loadModelTemplate/index.html)
+* [Preload Example]()
+* [Load Model Example]()
+
+## Week 8 In-Class Exercises 
+* [Sine Animation](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8a.html)
+* [Sine Animation (finished)](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8a2.html)
+* [Classes Bowtruckle](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b.html)
+* [Classes Bubble](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b2.html)
+* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
+
+## Remote Class Week 9
+* [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
+* Particle Info
+	* [Create a Particle Account](https://login.particle.io/signup?app=setup&redirect=http://setup.particle.io)
+	* [Particle Build](https://build.particle.io/build)
+* Walkthru's
+	* [Setting Up Your Photon](https://docs.particle.io/)
+	* [Intro To Particle Build](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_particle.md)
+	* [First Code with Particle](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_1.md)
+	* [Output Pins](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_2.md)
+	* [Input Pins](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_3.md)
+* Week 9 Code
+	* [First Photon Code](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1-rgb.ino)
+	* [First Photon Code With Functions!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1a-rgb.ino)
+	* [Photon Output Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise2-blink.ino)
+	* [Photon Input Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise3_lightmeter.ino)
+
+
 
 
