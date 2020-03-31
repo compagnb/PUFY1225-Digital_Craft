@@ -45,6 +45,7 @@
 
 ## Remote Class Week 9
 * [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
+* [Circuits & Ohms Law](https://www.youtube.com/watch?v=8jB6hDUqN0Y)
 * Fritzing Links
 	* [Fritzing Mac](https://mac.softpedia.com/get/Developer-Tools/Fritzing.shtml)
 	* [Fritzing PC](https://www.filecroco.com/download-fritzing/)
