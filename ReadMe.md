@@ -45,6 +45,9 @@
 
 ## Remote Class Week 9
 * [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
+* Fritzing Links
+	* [Fritzing Mac](https://mac.softpedia.com/get/Developer-Tools/Fritzing.shtml)
+	* [Fritzing PC](https://www.filecroco.com/download-fritzing/)
 * Particle Info
 	* [Create a Particle Account](https://login.particle.io/signup?app=setup&redirect=http://setup.particle.io)
 	* [Particle Build](https://build.particle.io/build)
@@ -59,6 +62,12 @@
 	* [First Photon Code With Functions!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1a-rgb.ino)
 	* [Photon Output Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise2-blink.ino)
 	* [Photon Input Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise3_lightmeter.ino)
+* Homework
+	* Design a circuit in Fritzing. You must use: a Photon, LED, Photoresistor, and resistors as needed.
+	* Code in Particle Build to take Input, and Outputs for the components used. 
+	* Post all to github. 
+	* If you actually program a board, post a video of your program running. 
+	* If you want to program one of mine, email me and schedule a time. 
 
 
 
