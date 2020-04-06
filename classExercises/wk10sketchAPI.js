@@ -1,7 +1,7 @@
 var weather;
 var api='https://api.openweathermap.org/data/2.5/forecast/daily?q=';
 var input;
-var apiKey='&appid=ad6e239ec0ac58d0a9836e942aac97eb';
+var apiKey='&appid=4d0f39d1147f1e8c8515efffc154653d';
 var units='&cnt=16&units=metric';
 var canvas;
 var minY=[];
