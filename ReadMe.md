@@ -74,33 +74,17 @@
 
 
 ## Week 10 Remote Class
-* [Importing Data]()
-* API Info
-	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
 * P5 Code
+	* [CSV Data 1 Jeter]()
+	* [CSV Data 2 Us Cities]()
 	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
-	* [CSV Data]()
 	* [API Basic!]()
 	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
-* Photon Code
-	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
-* P5/Photon Examples
-	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
-	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
-	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
-=======
->>>>>>> 0851426d13b42f85d5651b7cb410cdf45e7672cc
-
-
-## Week 10 Remote Class
-* [Importing Data]()
+* Data Sets
+	* [Jeter Batting](https://docs.google.com/spreadsheets/d/1j2oNf2QDuWtHo3j-FcR6tB6hCIvlEhdX719fLgEtWLc/edit#gid=0)
+	* [US Cities](https://docs.google.com/spreadsheets/d/1xelv7sZGWbW7cvDg6IhjfNgtDA28PXrq7CEGT3zVGMk/edit?usp=drive_web&ouid=116015647985389865972)
 * API Info
 	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
-* P5 Code
-	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
-	* [CSV Data]()
-	* [API Basic!]()
-	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
 * Photon Code
 	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
 * P5/Photon Examples
