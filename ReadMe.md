@@ -101,4 +101,6 @@
 		* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
 		* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
 		* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
+* Readings/WalkThrus(https://drive.google.com/open?id=160lSOLkjoJO9vPm2_dPiPs-01uWSzelv)
+
 
