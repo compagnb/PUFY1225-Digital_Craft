@@ -1,13 +1,13 @@
-var film; 
+var films; 
 
 function preload(){
-	film = loadJSON("assets/films.json");
+	films = loadJSON("assets/films.json");
 }
 
 function draw(){
-	var title = film.title;
-	var director = film.director;
-	var year = film.year;
-	var rating = film.rating;
+	var title = films.title;
+	var director = films.director;
+	var year = films.year;
+	var rating = films.rating;
 	print(title + " by " + director + " , " + year + ". Rating: " + rating);
 }
