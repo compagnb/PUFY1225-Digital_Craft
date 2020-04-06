@@ -43,7 +43,7 @@
 * [Classes Bubble](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b2.html)
 * [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
 
-## Remote Class Week 9
+## Week 9 Remote Class 
 * [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
 * Particle Info
 	* [Create a Particle Account](https://login.particle.io/signup?app=setup&redirect=http://setup.particle.io)
@@ -59,6 +59,24 @@
 	* [First Photon Code With Functions!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1a-rgb.ino)
 	* [Photon Output Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise2-blink.ino)
 	* [Photon Input Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise3_lightmeter.ino)
+	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+* [Basic Circut Videos](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all)
+
+## Week 10 Remote Class
+* [Importing Data]()
+* API Info
+	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
+* P5 Code
+	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
+	* [CSV Data]()
+	* [API Basic!]()
+	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
+* Photon Code
+	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+* P5/Photon Examples
+	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
+	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
+	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
 
 
 
