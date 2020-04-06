@@ -79,8 +79,8 @@
 		* [Jeter Batting](https://docs.google.com/spreadsheets/d/1j2oNf2QDuWtHo3j-FcR6tB6hCIvlEhdX719fLgEtWLc/edit#gid=0)
 		* [US Cities](https://docs.google.com/spreadsheets/d/1xelv7sZGWbW7cvDg6IhjfNgtDA28PXrq7CEGT3zVGMk/edit?usp=drive_web&ouid=116015647985389865972)
 	* P5 & CSV Data
-		* [CSV Data 1 Without Headers](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1.html)
-		* [CSV Data 1 Graphing](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1a.html)
+		* [CSV Data 1 Without Headers](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1a.html)
+		* [CSV Data 1 Graphing](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1.html)
 		* [CSV Data 2 Us Cities](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv2.html)
 * Json
 	* Json Data Sets

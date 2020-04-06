@@ -13,7 +13,7 @@ function setup(){
 function draw(){
 	background(0);
 	var xoffset = map(mouseX, 0, width, -width*3, -width);
-	translate(offset, -600);
+	translate(xoffset, -600);
 	scale(10);
 	for (var i = 0; i < cities.getRowCount(); i++){
 		var latitude = cities.getNum(i, "lat");
