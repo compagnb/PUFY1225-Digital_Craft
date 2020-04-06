@@ -1,7 +1,7 @@
 var cities;
 
 function preload(){
-	stats = loadTable("assets/US_Cities.csv");
+	stats = loadTable("assets/US_Cities.csv", "header");
 }
 
 function setup(){
