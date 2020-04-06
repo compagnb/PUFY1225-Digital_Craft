@@ -70,6 +70,7 @@
 	* Post all to github. 
 	* If you actually program a board, post a video of your program running. 
 	* If you want to program one of mine, email me and schedule a time. 
+<<<<<<< HEAD
 
 
 ## Week 10 Remote Class
@@ -87,7 +88,23 @@
 	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
 	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
 	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
+=======
+>>>>>>> 0851426d13b42f85d5651b7cb410cdf45e7672cc
 
 
-
+## Week 10 Remote Class
+* [Importing Data]()
+* API Info
+	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
+* P5 Code
+	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
+	* [CSV Data]()
+	* [API Basic!]()
+	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
+* Photon Code
+	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+* P5/Photon Examples
+	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
+	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
+	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
 
