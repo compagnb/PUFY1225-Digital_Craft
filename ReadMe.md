@@ -43,9 +43,8 @@
 * [Classes Bubble](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b2.html)
 * [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
 
-## Remote Class Week 9
+## Week 9 Remote Class 
 * [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
-* [Circuits & Ohms Law](https://www.youtube.com/watch?v=8jB6hDUqN0Y)
 * Fritzing Links
 	* [Fritzing Mac](https://mac.softpedia.com/get/Developer-Tools/Fritzing.shtml)
 	* [Fritzing PC](https://www.filecroco.com/download-fritzing/)
@@ -63,6 +62,8 @@
 	* [First Photon Code With Functions!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1a-rgb.ino)
 	* [Photon Output Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise2-blink.ino)
 	* [Photon Input Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise3_lightmeter.ino)
+	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+* [Basic Circut Videos](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all)
 * Homework
 	* Design a circuit in Fritzing. You must use: a Photon, LED, Photoresistor, and resistors as needed.
 	* Code in Particle Build to take Input, and Outputs for the components used. 
@@ -71,5 +72,19 @@
 	* If you want to program one of mine, email me and schedule a time. 
 
 
-
+## Week 10 Remote Class
+* [Importing Data]()
+* API Info
+	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
+* P5 Code
+	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
+	* [CSV Data]()
+	* [API Basic!]()
+	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
+* Photon Code
+	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+* P5/Photon Examples
+	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
+	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
+	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
 
