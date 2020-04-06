@@ -74,21 +74,31 @@
 
 
 ## Week 10 Remote Class
-* P5 Code
-	* [CSV Data 1 Jeter]()
-	* [CSV Data 2 Us Cities]()
-	* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
-	* [API Basic!]()
-	* [API Extra!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10d.html)
-* Data Sets
-	* [Jeter Batting](https://docs.google.com/spreadsheets/d/1j2oNf2QDuWtHo3j-FcR6tB6hCIvlEhdX719fLgEtWLc/edit#gid=0)
-	* [US Cities](https://docs.google.com/spreadsheets/d/1xelv7sZGWbW7cvDg6IhjfNgtDA28PXrq7CEGT3zVGMk/edit?usp=drive_web&ouid=116015647985389865972)
-* API Info
-	* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
-* Photon Code
-	* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
-* P5/Photon Examples
-	* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
-	* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
-	* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
+* CSV
+	* CSV Data Sets
+		* [Jeter Batting](https://docs.google.com/spreadsheets/d/1j2oNf2QDuWtHo3j-FcR6tB6hCIvlEhdX719fLgEtWLc/edit#gid=0)
+		* [US Cities](https://docs.google.com/spreadsheets/d/1xelv7sZGWbW7cvDg6IhjfNgtDA28PXrq7CEGT3zVGMk/edit?usp=drive_web&ouid=116015647985389865972)
+	* P5 & CSV Data
+		* [CSV Data 1 Without Headers](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1.html)
+		* [CSV Data 1 Graphing](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv1a.html)
+		* [CSV Data 2 Us Cities](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv2.html)
+* Json
+	* Json Data Sets
+		* [Json Data Set 1 Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/films.json)
+		* [Json Data Set 2 Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/bubbles.json)
+	* P5 & Json Data
+		*[Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1.html)	
+		*[Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json2.html)
+* API	
+	* API Info
+		* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
+	* P5 * APIs
+		* [API Basic!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10API.html)
+* P5 & Photon!
+	* Photon Code
+		* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
+	* P5/Photon Examples
+		* [Read 1x](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10a.html)
+		* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
+		* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
 
