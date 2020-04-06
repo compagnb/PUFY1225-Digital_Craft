@@ -1,5 +1,5 @@
 var stats;
-var homeruns;
+var homeRuns;
 
 function preload(){
 	stats = loadTable("assets/Jeter_BattingStats.csv");
@@ -16,7 +16,7 @@ function setup(){
 
 function draw(){
 	background(200);
-	stoke(153);
+	stroke(153);
 	line(20, 100, 20, 20);
 	line(20, 100, 380, 100);
 	for (var i = 0; i < homeRuns.length; i++){
