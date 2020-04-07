@@ -93,7 +93,7 @@
 	* API Info
 		* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
 	* P5 * APIs
-		* [API Basic!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10API.html)
+		* [API](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10API.html)
 * P5 & Photon!
 	* Photon Code
 		* [Input Pins Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise4_photoresistor.ino)
@@ -102,5 +102,6 @@
 		* [Live Read](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10b.html)
 		* [Timeout](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10c.html)
 * [Readings/WalkThrus](https://drive.google.com/open?id=160lSOLkjoJO9vPm2_dPiPs-01uWSzelv)
+* [Video Walkthru of Photon](https://www.youtube.com/watch?v=0QjgnEBp__U)
 
 
