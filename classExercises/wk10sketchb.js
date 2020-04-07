@@ -39,7 +39,7 @@ function parseData(data) {
 function callAPI() {
   
 
-  var url = 'https://api.particle.io/v1/devices/3a0040000851353531343431/analogvalue?access_token=27280314aec35f59f2530e76ba2e999f3600dfd9';
+  var url = 'https://api.particle.io/v1/devices/460028000751373238323937/analogvalue?access_token=964d18b0d0878157b19fb12080dadbc78eb530f2';
   data = loadJSON(url, parseData);
   counter++;
   console.log(counter);
