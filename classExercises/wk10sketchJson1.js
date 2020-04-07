@@ -4,7 +4,7 @@ function preload(){
 	films = loadJSON("assets/films.json");
 }
 
-function draw(){
+function setup(){
 	var title = films.title;
 	var director = films.director;
 	var year = films.year;
