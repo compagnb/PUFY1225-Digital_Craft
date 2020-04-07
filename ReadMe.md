@@ -87,9 +87,9 @@
 		* [Json Data Set 1 Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/films.json)
 		* [Json Data Set 2 Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/bubbles.json)
 	* P5 & Json Data
-		* [Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1.html)
-		* [Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1a.html)
-		* [Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json2.html)
+		* [Json Load](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1.html)
+		* [Json Parse](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1a.html)
+		* [Json Visualize](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json2.html)
 * API	
 	* API Info
 		* [Open A Weather Free API Account](https://home.openweathermap.org/users/sign_up)
