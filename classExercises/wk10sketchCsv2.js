@@ -1,11 +1,11 @@
 var cities;
 
 function preload(){
-	cities = loadTable("assets/US_Cities.csv", "header");
+	stats = loadTable("assets/US_Cities.csv");
 }
 
 function setup(){
-	createCanvas(600, 600);
+	createCanvas(400, 400);
 	fill(255, 150);
 	noStroke();
 }
@@ -13,7 +13,7 @@ function setup(){
 function draw(){
 	background(0);
 	var xoffset = map(mouseX, 0, width, -width*3, -width);
-	translate(xoffset, -600);
+	translate(offset, -600);
 	scale(10);
 	for (var i = 0; i < cities.getRowCount(); i++){
 		var latitude = cities.getNum(i, "lat");

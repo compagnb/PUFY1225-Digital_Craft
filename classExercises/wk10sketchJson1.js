@@ -1,13 +1,23 @@
-var films; 
+var films;
+var filmsData = []; 
 
 function preload(){
-	films = loadJSON("assets/films.json");
+	filmsData = loadJSON("assets/film.json");
 }
 
 function setup(){
-	var title = films.title;
-	var director = films.director;
-	var year = films.year;
-	var rating = films.rating;
-	print(title + " by " + director + " , " + year + ". Rating: " + rating);
+	for (let i = 0; i < filmData.length; i++) {
+    	// Get each object in the array
+    	var film = filmsData[i];
+    	// Get a position object
+		var title = film.title;
+		var director = film.director;
+		var year = film.year;
+		var rating = film.rating;
+		print(title + " by " + director + " , " + year + ". Rating: " + rating);
+  	}
+}
+
+function draw(){
+
 }
