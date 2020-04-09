@@ -1,3 +1,4 @@
+## INPUTS & OUTPUTS
 * In order to blink LEDs set to other pins on the Photon board, first we need to declare **global** variables to hold the pin information. 
 ``` C
 int led0 = D0;

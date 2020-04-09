@@ -27,21 +27,28 @@
 * [Exporting SVGs Example 2](https://compagnb.github.io/PUFY1225-Digital_Craft/p5svgExample/index.html)
 
 ## Week 6 In-Class Exercises 
-* [Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6a.html)
+* [Without Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6.html)
+* [With Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6a.html)
+* [Adding to Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6b.html)
+* [More Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6c.html)
+* [2d Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6d.html)
+* [3d Arrays](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk6e.html)
 
 ## Week 7 In-Class Exercises 
 * [3d Geometry](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7a.html)
 * [Materials & Lighting](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7b.html)
 * [Textures](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7c.html)
-* [Preload Example]()
-* [Load Model Example]()
+* [Preload Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7d.html)
+* [Load Model Example](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk7e.html)
 
 ## Week 8 In-Class Exercises 
-* [Sine Animation](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8a.html)
+* [Sine Animation](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8.html)
+* [Sine Animation with Spheres](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8a.html)
 * [Sine Animation (finished)](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8a2.html)
 * [Classes Bowtruckle](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b.html)
 * [Classes Bubble](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8b2.html)
 * [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8c.html)
+* [Json](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk8d.html)
 
 ## Week 9 Remote Class 
 * [Intro To IoT & Microcontrollers!](https://docs.google.com/presentation/d/1xqedCFzCrEP4IHYhyqTL3W51-vvcyp-5H5XPkajrseE)
@@ -49,7 +56,7 @@
 	* [Fritzing Mac](https://mac.softpedia.com/get/Developer-Tools/Fritzing.shtml)
 	* [Fritzing PC](https://www.filecroco.com/download-fritzing/)
 * Particle Info
-	* [Create a Particle Account](https://login.particle.io/signup?app=setup&redirect=http://setup.particle.io)
+	* [Create a Particle Account](https://build.particle.io/build)
 	* [Particle Build](https://build.particle.io/build)
 * Walkthru's
 	* [Setting Up Your Photon](https://docs.particle.io/)

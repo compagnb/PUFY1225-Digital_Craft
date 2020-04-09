@@ -1,4 +1,4 @@
-        #### Particle Cloud Overview (from Particle Support Website)
+#### Particle Cloud Overview (from Particle Support Website)
 ![Particle Cloud](https://github.com/compagnb/w18_intro_to_iot/blob/master/imgs/particlecloud.png "Particle Cloud")
 * Particle Build is an **Integrated Development Environment**, or IDE. (IDE's allow software development in an application.
 * The **Navigation bar** is on the left. On the top, there are three buttons, which serve important functions:
