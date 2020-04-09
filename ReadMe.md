@@ -62,8 +62,7 @@
 	* [Setting Up Your Photon](https://docs.particle.io/)
 	* [Intro To Particle Build](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_particle.md)
 	* [First Code with Particle](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_1.md)
-	* [Output Pins](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_2.md)
-	* [Input Pins](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_3.md)
+	* [Output & Input Pins](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_walkthru_2.md)
 * Week 9 Code
 	* [First Photon Code](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1-rgb.ino)
 	* [First Photon Code With Functions!](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk9_exercise1a-rgb.ino)
