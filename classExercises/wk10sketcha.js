@@ -1,7 +1,7 @@
 var data;
 var reading = 0;
-var deviceID = "260037000447333439313830";
-var accessToken = "27280314aec35f59f2530e76ba2e999f3600dfd9";
+var deviceID = "460028000751373238323937";
+var accessToken = "e0e7f53cd397b054f6a61cb6708abd4c9224a534";
 var particleVariable = "analogvalue"
 
 function setup() {
