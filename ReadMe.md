@@ -90,11 +90,13 @@
 		* [CSV Data 2 Us Cities](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Csv2.html)
 * Json
 	* Json Data Sets
-		* [Json Data Set 1 Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/films.json)
-		* [Json Data Set 2 Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/bubbles.json)
+		* [Json Data Set 1 Film](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/films.json)
+		* [Json Data Set 2 Films](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/films.json)
+		* [Json Data Set 3 Bubbles](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/assets/bubbles.json)
 	* P5 & Json Data
-		* [Json Load](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1.html)
-		* [Json Parse](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1a.html)
+		* [Json Load](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json.html)
+		* [Json Arrays Load](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1.html)
+		* [Json Arrays Load & Parse](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json1a.html)
 		* [Json Visualize](https://compagnb.github.io/PUFY1225-Digital_Craft/classExercises/wk10Json2.html)
 * API	
 	* API Info

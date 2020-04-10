@@ -60,20 +60,6 @@ function loadData() {
   }
 }
 
-// Create a new Bubble each time the mouse is clicked.
-function mousePressed() {
-  // Add diameter and label to bubble
-  let diameter = random(40, 80);
-  let label = 'New Label';
-
-  // Append the new JSON bubble object to the array
-  bubbles.push(new Bubble(mouseX, mouseY, diameter, label));
-
-  // Prune Bubble Count if there are too many
-  if (bubbles.length > 10) {
-    bubbles.shift(); // remove first item from array
-  }
-}
 
 function setup() {
   createCanvas(640, 360);
@@ -89,8 +75,4 @@ function draw() {
     bubbles[i].rollover(mouseX, mouseY);
   }
 
-  // Label directions at bottom
-  textAlign(LEFT);
-  fill(0);
-  text('Click to add bubbles.', 10, height - 10);
 }

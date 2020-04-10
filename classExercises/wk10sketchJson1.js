@@ -6,7 +6,7 @@ function preload(){
 }
 
 function setup(){
-	for (let i = 0; i < filmData.length; i++) {
+	for (let i = 0; i < filmsData.length; i++) {
     	// Get each object in the array
     	var film = filmsData[i];
     	// Get a position object
