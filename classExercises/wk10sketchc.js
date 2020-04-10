@@ -34,6 +34,7 @@ function parseData(data) {
 
 function callAPI() {
   var url= "https://api.particle.io/v1/devices/"+ deviceID +"/"+ particleVariable + "?access_token=" + accessToken;
+  print(url);
   data = loadJSON(url, parseData);
   counter++;
   //  console.log(counter);
